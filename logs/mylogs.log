@@ -1,0 +1,5 @@
+[DEBUG] 2021-12-29 11:31:57.988 [main] LogExample - This is a debug message
+[INFO ] 2021-12-29 11:31:57.995 [main] LogExample - This is an info message
+[WARN ] 2021-12-29 11:31:57.995 [main] LogExample - This is a warn message
+[ERROR] 2021-12-29 11:31:57.996 [main] LogExample - This is an error message
+[FATAL] 2021-12-29 11:31:57.996 [main] LogExample - This is a fatal message
